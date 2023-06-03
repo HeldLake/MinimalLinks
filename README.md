@@ -1,6 +1,7 @@
 # MinimalLinks - Minimalistic Website
 
 This repository contains the source code and files for MinimalLinks, a minimalistic website inspired by [benjji.com](https://benjji.com).
+![Screenshot of the website that is presented in the repository.](https://github.com/HeldLake/MinimalLinks/blob/main/assets/js/Screen%20Shot%202023-06-03%20at%2014.32.18.png)
 
 ## Live Demo
 
