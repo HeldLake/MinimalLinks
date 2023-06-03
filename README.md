@@ -1,6 +1,6 @@
 # MinimalLinks - Minimalistic Website
 
-This repository contains the source code and files for MinimalLinks, a minimalistic website inspired by benjji.com.
+This repository contains the source code and files for MinimalLinks, a minimalistic website inspired by [benjji.com](https://benjji.com).
 
 ## Live Demo
 
