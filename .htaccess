@@ -1,3 +1,5 @@
+#Use this file to get your website to use https, only work if you have a valid ssl certificate.
+
 RewriteEngine On
 RewriteCond %{HTTP:X-Forwarded-Proto} !https
 RewriteCond %{HTTPS} off
